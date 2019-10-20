@@ -12,10 +12,10 @@ All names and images are taken from uinames.com.  It provides simple tool to gen
 ## Build and Run instruction
 1) Download / git clone code
 2) Download dependencies : Run "npm install"
-3) Build project : Run "npm start build-dev"
-4) Run application locally : Run "npm run start"
+3) Run application locally : Run "npm run start" and open browser at http://localhost:9000/ 
+4) Build project : Run "npm start build-dev"
 
 ## Screenshot
-![Desktop/Laptop](https://github.com/kiranjugdar/react-bootstrap/blob/master/img/desktop.jpeg)
-![Mobile](https://github.com/kiranjugdar/react-bootstrap/blob/master/img/mobile.jpeg)
+![Desktop/Laptop](https://github.com/kiranjugdar/react-bootstrap/tree/master/img/desktop.png)
+![Mobile](https://github.com/kiranjugdar/react-bootstrap/tree/master/img/mobile.png)
 
