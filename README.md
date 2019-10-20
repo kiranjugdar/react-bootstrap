@@ -16,6 +16,6 @@ All names and images are taken from uinames.com.  It provides simple tool to gen
 4) Run application locally : Run "npm run start"
 
 ## Screenshot
-![Desktop/Laptop](https://github.com/kiranjugdar/react-bootstrap/tree/master/img/desktop.png)
-![Mobile](https://github.com/kiranjugdar/react-bootstrap/tree/master/img/mobile.png)
+![Desktop/Laptop](https://github.com/kiranjugdar/react-bootstrap/blob/master/img/desktop.jpeg)
+![Mobile](https://github.com/kiranjugdar/react-bootstrap/blob/master/img/mobile.jpeg)
 
